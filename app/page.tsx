@@ -7,11 +7,8 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`Hi, my name is Paulo! I'm a Product Manager 🚀 with a strong foundation in computer science and engineering. My career spans from system analysis to senior product management roles at companies like Dell and Mentoro, where I've consistently delivered products that exceed business objectives.
+        I specialize in bridging the gap between user needs and business goals 🎯 through rigorous product discovery, data-driven decision making, and cross-functional collaboration. My approach combines technical depth with strategic thinking to create products that matter.`}
       </p>
       <div className="my-8">
         <BlogPosts />
